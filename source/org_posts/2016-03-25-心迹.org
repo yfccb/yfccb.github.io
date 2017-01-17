@@ -1,0 +1,41 @@
+#+TITLE: 心迹
+#+DATE: 2010-07-07
+#+SETUPFILE: ~/octopress/org-sty/setupfile.org
+#+JEKYLL_LAYOUT: post
+#+JEKYLL_CATEGORIES: 诗 
+#+JEKYLL_TAGS: 诗 爱
+#+JEKYLL_PUBLISHED: true
+
+#+begin_verse
+
+
+Y：
+
+    我的脚步想要去流浪我的心却想靠航；
+
+    我的影子想要去飞翔我的人还在地上。
+
+F：
+
+    如果你要去流浪，
+
+    请让我陪伴你浪迹天涯；
+
+    如果你要靠航，
+
+    就让我成为只为你开放的海港；
+
+    如果你要去飞翔，
+
+    让我做天空的一片白云，
+
+    遮挡热烈的阳光同时留下蓝天让你徜徉；
+
+    如果你要留在地上，
+
+    让我给你梳理你的长发，
+
+    结蝴蝶结在你背后的裙裳。
+
+
+#+end_verse 

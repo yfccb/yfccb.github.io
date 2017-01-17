@@ -1,0 +1,13 @@
+#+TITLE: 小宝趣事点滴
+#+DATE: 2013-10-13
+#+SETUPFILE: ~/octopress/org-sty/setupfile.org
+#+JEKYLL_LAYOUT: post
+#+JEKYLL_CATEGORIES:随笔 
+#+JEKYLL_TAGS: 小宝 生活 趣事
+#+JEKYLL_PUBLISHED: true
+
+小宝回家之后变得开朗而活泼，和陌生的小朋友玩得很好。
+
+小鱼儿说这边的小孩都很开朗而友善，没有北京的戒备之心。
+
+吃饭的时候，小宝发现葱不是很想吃，就把葱夹到小鱼儿碗里，说：妈妈吃点蔬菜，好拉臭臭。哈哈～～

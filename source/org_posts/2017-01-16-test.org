@@ -1,0 +1,16 @@
+#+TITLE: test
+#+DATE: 2017-01-16
+#+SETUPFILE: ~/mysite/ccb/source/org-sty/setupfile.org
+#+JEKYLL_LAYOUT: post
+#+JEKYLL_CATEGORIES: test 
+#+JEKYLL_TAGS: 
+#+JEKYLL_PUBLISHED: true
+
+* 苍穹之下
+苍穹之下，现在是灰蒙蒙的一片。这几天有一位院士和柴静的对话，朋友圈很多人都在转发。
+很多人似乎由此找到了一个借口。我们有权利排放，我们的碳排放似乎还远远不够。
+
+的确，发展中国家和发展中国家的人民都有发展的权利。同样，我们在争取更多的碳排放的
+同时是否可以把空气和环境治理得让孩子们可以自由的呼吸呢？
+
+

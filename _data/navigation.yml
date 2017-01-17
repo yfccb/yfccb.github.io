@@ -1,0 +1,15 @@
+# main links
+main:
+#  - title: "Quick-Start Guide"
+#    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "关于"
+    url: /about/
+  - title: "博文"
+    url: /year-archive/
+  - title: "归档"
+    url: /collection-archive/
+  - title: "分类"
+    url: /categories/
+  - title: "网站地图"
+    url: /sitemap/
+

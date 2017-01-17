@@ -1,0 +1,55 @@
+---
+title: ""
+date: 
+layout: post
+categories: 
+tags: 
+published: true
+comments: 
+---
+<p>
+&#x2014;
+layout: archive
+title: "Sitemap"
+permalink: <i>sitemap</i>
+author_profile: false
+&#x2014;
+</p>
+
+<p>
+A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ "sitemap.xml" | absolute_url }}) available for digesting as well.
+</p>
+
+<p>
+&lt;h2&gt;Pages&lt;/h2&gt;
+{% for post in site.pages %}
+  {% include archive-single.html %}
+{% endfor %}
+</p>
+
+<p>
+&lt;h2&gt;Posts&lt;/h2&gt;
+{% for post in site.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+</p>
+
+<p>
+{% capture written_label %}'None'{% endcapture %}
+</p>
+
+<p>
+{% for collection in site.collections %}
+{% unless collection.output <code>= false or collection.label =</code> "posts" %}
+  {% capture label %}{{ collection.label }}{% endcapture %}
+  {% if label != written_label %}
+  &lt;h2&gt;{{ label }}&lt;/h2&gt;
+  {% capture written_label %}{{ label }}{% endcapture %}
+  {% endif %}
+{% endunless %}
+{% for post in collection.docs %}
+  {% unless collection.output <code>= false or collection.label =</code> "posts" %}
+  {% include archive-single.html %}
+  {% endunless %}
+{% endfor %}
+{% endfor %}</p>

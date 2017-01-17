@@ -1,0 +1,115 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage{graphicx}
+%\usepackage{xcolor}
+\usepackage{color,xcolor}            % 支持彩色文本、底色、文本框等
+\usepackage{xeCJK}
+\usepackage[BoldFont,SlantFont,CJKnumber]{xeCJK} % 允许使用粗体，斜体以及调用CJKnumb宏包
+\usepackage{lmodern}
+\usepackage{verbatim}
+\usepackage{fixltx2e}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{tikz}
+\usepackage{wrapfig}
+\usepackage{soul}
+\usepackage{textcomp}
+\usepackage{listings}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\usepackage{marvosym}
+\usepackage{wasysym}
+\usepackage{latexsym}
+\usepackage{natbib}
+\usepackage{fancyhdr}
+\usepackage[xetex,colorlinks=true,CJKbookmarks=true,
+linkcolor=blue,
+urlcolor=blue,
+menucolor=blue]{hyperref}
+\usepackage{fontspec,xunicode,xltxtra}
+\setmainfont[BoldFont=Microsoft YaHei]{Microsoft YaHei}
+%\setsansfont[BoldFont=Microsoft YaHei]{AR PL UKai CN}
+%\setmonofont{Bitstream Vera Sans Mono}
+%\newcommand\fontnamemono{AR PL UKai CN}%等宽字体
+\newfontinstance\MONO{\fontnamemono}
+\newcommand{\mono}[1]{{\MONO #1}}
+\setCJKmainfont[Scale=1]{Microsoft YaHei}%中文字体
+\setCJKmainfont[Scale=1]{STSong}%中文字体
+\hypersetup{unicode=true}
+\usepackage{indentfirst}             % 首行缩进
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%http://blog.sina.com.cn/s/blog_6aeb94df01013x53.html
+% 设定页边距
+\usepackage[top=1.1in,bottom=1.1in,left=1.25in,right=1in]{geometry}
+%\usepackage{geometry}
+% 设置中文段落首行缩进与段落间距
+%\usepackage{indentfirst}
+%\setlength{\parindent}{2em}
+%\setlength{parskip}{0pt}
+% 设置行间距
+%\renewcommand{aselinestretch}{1.38}
+\parindent 2em
+\parskip 7.2pt
+\linespread{1.3}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\geometry{a4paper, textwidth=6.5in, textheight=10in,
+marginparsep=7pt, marginparwidth=.6in}
+\definecolor{foreground}{RGB}{220,220,204}%浅灰
+\definecolor{background}{RGB}{62,62,62}%浅黑
+\definecolor{preprocess}{RGB}{250,187,249}%浅紫
+\definecolor{var}{RGB}{239,224,174}%浅肉色
+\definecolor{string}{RGB}{154,150,230}%浅紫色
+\definecolor{type}{RGB}{225,225,116}%浅黄
+\definecolor{function}{RGB}{140,206,211}%浅天蓝
+\definecolor{keyword}{RGB}{239,224,174}%浅肉色
+\definecolor{comment}{RGB}{180,98,4}%深褐色
+\definecolor{doc}{RGB}{175,215,175}%浅铅绿
+\definecolor{comdil}{RGB}{111,128,111}%深灰
+\definecolor{constant}{RGB}{220,162,170}%粉红
+\definecolor{buildin}{RGB}{127,159,127}%深铅绿
+\punctstyle{kaiming}
+\title{}
+\fancyfoot[C]{\bfseries\thepage}
+\chead{\MakeUppercase\sectionmark}
+\pagestyle{fancy}
+\tolerance=1000
+\date{2012-12-29}
+\title{黑天鹅之祭:在连续性断裂边缘的随想}
+\hypersetup{
+ pdfauthor={程春波},
+ pdftitle={黑天鹅之祭:在连续性断裂边缘的随想},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 25.1.50.1 (Org mode 8.3.5)}, 
+ pdflang={English}}
+\begin{document}
+
+\maketitle
+
+\section*{}
+\label{sec:orgheadline1}
+
+当连续性的世界突然坍塌的时候，构建在其上的运作和认知世界面前突然出现一道深不可测的深渊，深渊之中升腾起一只黑天鹅，在深壑边缘翩然起舞。而原本建立在连续性的假设基础之上的世界，却陷入了一片混乱。
+
+在次贷危机出现之前的美国，在房价和房屋成交量居高不下的繁荣景象面前，房市有一天会崩溃听起来非常不靠谱。在危机爆发之前出版的《黑天鹅：如何应对不可预知的未来》的作者塔勒布在书中提到：“政府设立的房利美的风险管理也如同坐在火药桶上，最轻微的打击也承受不起。”虽然作者反对对于未来的预测，不过由于其预测的次贷危机却令塔勒布声名鹊起。
+
+危机之后，人们试图从衰退和崩溃之后寻找可以遵循的原则和逻辑。是美国长期的低利率？是美国的超前的消费模式？还是华尔街的贪婪？数学模型的滥用？还是某些险恶的别有用心的人的阴谋？然而，一条条看似言之成理的事后诸葛亮似的结论却如迷雾般再次将我们引入歧途。无法证实与证伪的结论，对于增加我们对于真实世界的理解，没有丝毫的意义。
+
+接受因果、逻辑和理性的洗礼，我们的思维模式适应了这个世界运行的连续性，而统计学的滥用，同样把可能的危险边缘化，让我们错以为这世界是安全的、稳定和连续的。而真相则是，我们信仰的连续世界的真实却是不连续的，在断层之间充满了深渊。当因无知所以无视故无畏的我们站在深渊的边缘，如果多往前走一步，也许就是真正坠入崩溃之渊。
+
+无助的我们，希望借助技术来弥补这个缺失。海量的数据和“精确”复杂的模型并没有拉近我们与事实真相之间的距离。以割裂了现实抽象出来的数字来解读世界的真相，这种“成功”解读背后的真实比例有多少我们无法充分的测算。不过基于复杂的模型和数字而带来的灾难，却仍清晰依然。从长期资本管理公司到次贷危机，不缺乏顶尖的专家和数学、计算能力，对于驾驭这个复杂的非连续的世界却显得远远不够。因为，我们的思维模式本来就出现了根本性的错误。
+
+其实，当刚刚接触初等数学的函数的时候，有一个函数的有效区间的概念，但是现在我们却在不知不觉中犯了一个错误，将在某个有效区间内得出的结论滥用到其原函数无效区间之中。更危险的事，经历N次迭代之后，我们以其导出的错误的结果来指导行为，同时却自信的认为对于世界和经济的运行有了明晰的刻画。却殊不知，这个时候，我们的一只脚正踏在断裂的世界深渊的上空。在哪里，黑天鹅在引颈高歌，它在辛灾乐祸在嘲笑我们的愚蠢和自大。
+
+痛定思痛的反思，让我们能够更多的认识所处的环境，而同时，我们的反思之后的不完整的认知和自满，也在麻痹这我们对于这个高度不确定和复杂的世界的潜在风险的感知。而面对无知和无法理解的问题，我们接受的教育和所处的环境却让我们羞于坦白自己的无知和无力，盲目的行为的代价将进一步加大我们回归本质和探寻真相的难度。
+
+历史发展的历程已经告诉我们，我们不仅在经历历史，同样也将创造历史。选择我们的自然也是我们参与的自然，是被选择还是淘汰，尽管有运气的成分在内，然而适者生存的法则和进化的意义恰在于自我的修正与进化，是否与外界的环境相匹配，这也许正是战略的价值所在。
+
+回归现实世界，居高不下的房地产价格是否已经将整个宏观经济拉到火药桶上了呢？无论如何回答，我们都是在就未来经济做出某种预测，放弃预测，也并不意味着我们就无处作为。
+
+面对不可预测的未来，与其寄希望于预测，不如我们尽可能突破固有的思维模式的狭隘和局限，做好应对未来不同情况的准备，也许是值得推荐的策略。此时，我们不仅需要开发的思维、创新的思路，同时也需要一些开创未来的勇气。让模型在其有效区间内发挥其应有的作用，同时，在宏观的视角上，保持尽可能的冷静和谨慎。及早确立的领先一步的优势，将随着时间被马太效应进一步的放大。
+
+当适者生存成为自然选择最终法则的时候，自然对于竞争力的评价不是按照力量、体重和规模的单一维度，否则，恐龙也许是如今地球的主宰了。但是生存下来的人类对于被灭绝的恐龙的认知，又有多少是真实的？我们认为的生存竞争之道又有多少是有价值的呢？
+
+要知道，黑天鹅离我们的距离并不遥远，当我们在连续性的模式上沉睡的时候，断裂的深渊随时可能出现，当黑天鹅再次降临之时，无论它带来的影响是好是坏，我们是否已经做好了从容应对的准备了呢？
+\end{document}
