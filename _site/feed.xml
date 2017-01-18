@@ -1,6 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-17T21:24:50+08:00</updated><id>http://localhost:4000//</id><title type="html">知行合一</title><subtitle>知行合一，臻于至善</subtitle><author><name>程春波</name></author><entry><title type="html">org-jekyll 测试</title><link href="http://localhost:4000/%E6%B5%8B%E8%AF%95/org-jekyll%E6%B5%8B%E8%AF%95/" rel="alternate" type="text/html" title="org-jekyll 测试" /><published>2017-01-17T00:00:00+08:00</published><updated>2017-01-17T00:00:00+08:00</updated><id>http://localhost:4000/%E6%B5%8B%E8%AF%95/org-jekyll%E6%B5%8B%E8%AF%95</id><content type="html" xml:base="http://localhost:4000/%E6%B5%8B%E8%AF%95/org-jekyll%E6%B5%8B%E8%AF%95/">&lt;p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-18T09:51:32+08:00</updated><id>http://localhost:4000//</id><title type="html">知行合一</title><subtitle>知行合一，臻于至善</subtitle><author><name>程春波</name></author><entry><title type="html">新的一年</title><link href="http://localhost:4000/%E9%9A%8F%E7%AC%94/%E6%96%B0%E7%9A%84%E4%B8%80%E5%B9%B4/" rel="alternate" type="text/html" title="新的一年" /><published>2017-01-18T00:00:00+08:00</published><updated>2017-01-18T00:00:00+08:00</updated><id>http://localhost:4000/%E9%9A%8F%E7%AC%94/%E6%96%B0%E7%9A%84%E4%B8%80%E5%B9%B4</id><content type="html" xml:base="http://localhost:4000/%E9%9A%8F%E7%AC%94/%E6%96%B0%E7%9A%84%E4%B8%80%E5%B9%B4/">&lt;p&gt;
+新的一年又开始了。
+&lt;/p&gt;
+
+&lt;p&gt;
+创业的路径有两个：
+&lt;/p&gt;
+
+&lt;p&gt;
+1、从未来去投射现在。这样看未来的需求和机会点在哪里，未来让用户如何去整合资源，
+去构建业务模式。
+&lt;/p&gt;
+
+&lt;p&gt;
+2、另外一种模式就是看现在有什么资源可以利用。基于既有的资源去构建，这样的好处是
+相对而言容易生存，但是问题是对于长远的思考和应变不够。
+&lt;/p&gt;</content><author><name>程春波</name></author><summary type="html">新的一年又开始了。</summary></entry><entry><title type="html">org-jekyll 测试</title><link href="http://localhost:4000/%E6%B5%8B%E8%AF%95/org-jekyll%E6%B5%8B%E8%AF%95/" rel="alternate" type="text/html" title="org-jekyll 测试" /><published>2017-01-17T00:00:00+08:00</published><updated>2017-01-17T00:00:00+08:00</updated><id>http://localhost:4000/%E6%B5%8B%E8%AF%95/org-jekyll%E6%B5%8B%E8%AF%95</id><content type="html" xml:base="http://localhost:4000/%E6%B5%8B%E8%AF%95/org-jekyll%E6%B5%8B%E8%AF%95/">&lt;p&gt;
 测试 jekyll 的设置。
-&lt;/p&gt;</content><author><name>程春波</name></author><category term="jekyll" /><category term="org-mode" /><summary type="html">测试 jekyll 的设置。</summary></entry><entry><title type="html">about</title><link href="http://localhost:4000/about/about/" rel="alternate" type="text/html" title="about" /><published>2017-01-17T00:00:00+08:00</published><updated>2017-01-17T00:00:00+08:00</updated><id>http://localhost:4000/about/about</id><content type="html" xml:base="http://localhost:4000/about/about/">&lt;div id=&quot;outline-container-org32f9827&quot; class=&quot;outline-2&quot;&gt;
+&lt;/p&gt;</content><author><name>程春波</name></author><category term="jekyll" /><category term="org-mode" /><summary type="html">测试 jekyll 的设置。</summary></entry><entry><title type="html">about</title><link href="http://localhost:4000/about/" rel="alternate" type="text/html" title="about" /><published>2017-01-17T00:00:00+08:00</published><updated>2017-01-17T00:00:00+08:00</updated><id>http://localhost:4000/about</id><content type="html" xml:base="http://localhost:4000/about/">&lt;div id=&quot;outline-container-org32f9827&quot; class=&quot;outline-2&quot;&gt;
 &lt;h2 id=&quot;org32f9827&quot;&gt;博客介绍&lt;/h2&gt;
 &lt;div class=&quot;outline-text-2&quot; id=&quot;text-org32f9827&quot;&gt;
 &lt;p&gt;
@@ -29,7 +45,7 @@
 个人爱好围棋、看书、电影等。
 &lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content><author><name>程春波</name></author><summary type="html">博客介绍
+&lt;/div&gt;</content><author><name>程春波</name></author><category term="about" /><summary type="html">博客介绍
 
 
 本博客是基于 Jekyll 生成的。
@@ -414,19 +430,4 @@ facebook 就在这个层。作为导流或者媒介，这个空间是永远存�
 问题。作为从业者，我们也可以看到对于电子病历、转诊、大数据等各方面现实
 的需求。在最后，向战斗在基层的医生致敬，读到温州的报道，眼前似乎浮现出
 小时候那个把两个大黑皮包挂在自行车车把上，穿行在乡间的和蔼的老医生。
-&lt;/p&gt;</content><author><name>程春波</name></author><category term="分级诊疗" /><category term="医改" /><summary type="html"></summary></entry><entry><title type="html">小宝趣事</title><link href="http://localhost:4000/%E7%94%9F%E6%B4%BB/%E5%B0%8F%E5%AE%9D%E8%B6%A3%E4%BA%8B/" rel="alternate" type="text/html" title="小宝趣事" /><published>2015-08-23T00:00:00+08:00</published><updated>2015-08-23T00:00:00+08:00</updated><id>http://localhost:4000/%E7%94%9F%E6%B4%BB/%E5%B0%8F%E5%AE%9D%E8%B6%A3%E4%BA%8B</id><content type="html" xml:base="http://localhost:4000/%E7%94%9F%E6%B4%BB/%E5%B0%8F%E5%AE%9D%E8%B6%A3%E4%BA%8B/">&lt;div id=&quot;outline-container-orgc075f65&quot; class=&quot;outline-2&quot;&gt;
-&lt;h2 id=&quot;orgc075f65&quot;&gt;我不要做小&lt;/h2&gt;
-&lt;div class=&quot;outline-text-2&quot; id=&quot;text-orgc075f65&quot;&gt;
-&lt;p&gt;
-吃货
-&lt;/p&gt;
-
-&lt;p&gt;
-小宝要去游泳，姥姥煮好了新鲜的花生，问小宝：要不要吃花生啊？小宝答：我
-不要做小吃货！：）
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content><author><name>程春波</name></author><category term="小宝" /><summary type="html">我不要做小
-
-
-吃货</summary></entry></feed>
+&lt;/p&gt;</content><author><name>程春波</name></author><category term="分级诊疗" /><category term="医改" /><summary type="html"></summary></entry></feed>

@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/%E9%9A%8F%E7%AC%94/%E6%96%B0%E7%9A%84%E4%B8%80%E5%B9%B4/</loc>
+<lastmod>2017-01-18T00:00:00+08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/%E6%B5%8B%E8%AF%95/org-jekyll%E6%B5%8B%E8%AF%95/</loc>
 <lastmod>2017-01-17T00:00:00+08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/about/about/</loc>
+<loc>http://localhost:4000/about/</loc>
 <lastmod>2017-01-17T00:00:00+08:00</lastmod>
 </url>
 <url>
@@ -208,9 +212,5 @@
 </url>
 <url>
 <loc>http://localhost:4000/page9/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/about/index.html</loc>
-<lastmod>2017-01-17T01:48:39+08:00</lastmod>
 </url>
 </urlset>
