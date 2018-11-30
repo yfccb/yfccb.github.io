@@ -1,15 +1,16 @@
-# main links
-main:
-#  - title: "Quick-Start Guide"
-#    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "关于"
-    url: /about/
-  - title: "博文"
-    url: /year-archive/
-  - title: "归档"
-    url: /collection-archive/
-  - title: "分类"
-    url: /categories/
-  - title: "网站地图"
-    url: /sitemap/
+# Sample site navigation bar links
 
+- title: 首页
+  url: /
+- title: 博客
+  url: /posts/
+- title: 归档
+  url: /categories/
+- title: 标签
+  url: /tags/
+- title: 简介
+  url: /about/
+- title: 搜索
+  url: /search/
+# - title: External Page
+# #   url: https://the-page.com/you-want-to-link-to.html

@@ -1,0 +1,11 @@
+#+TITLE: 历史长河里的泥沙
+#+DATE: 2017-03-10
+#+SETUPFILE: ~/mysite/ccb/source/org-sty/setupfile.org
+#+JEKYLL_LAYOUT: post
+#+JEKYLL_CATEGORIES: 评论,历史
+#+JEKYLL_TAGS:
+#+JEKYLL_PUBLISHED: true
+
+中国的历史，历来只有英雄。从《尚书》、《春秋》、《史记》到二十四史，笔墨之下，历
+史上只有达官贵人, 而草民, 历来都是被遗忘的. 如同长河中的泥沙，被时间的流水冲刷，
+最终湮没。

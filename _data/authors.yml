@@ -1,0 +1,11 @@
+# Sample Authors
+# Remove file or replace with your own
+
+禺梵:
+  name: ChunBo Cheng
+  picture: /images/ccb.jpg
+  twitter: "@Cheng_ChunBo"
+  links:
+    - title: Twitter
+      url: https://twitter.com/Cheng_ChunBo
+      icon: fab fa-twitter-square

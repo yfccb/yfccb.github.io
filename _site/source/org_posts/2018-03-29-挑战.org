@@ -1,0 +1,13 @@
+#+TITLE: 挑战
+#+DATE: 2018-03-29
+#+SETUPFILE: ~/mysite/ccb/source/org-sty/setupfile.org
+#+JEKYLL_LAYOUT: post
+#+JEKYLL_CATEGORIES: 杂感
+#+JEKYLL_TAGS: 自励
+#+JEKYLL_PUBLISHED: true
+
+真正的挑战实际上来自于自己对于现实问题的逃避。
+
+奋起吧， 承担其你应该承担的责任和使命。
+
+加油！

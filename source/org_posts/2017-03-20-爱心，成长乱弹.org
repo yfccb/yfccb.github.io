@@ -1,0 +1,13 @@
+#+TITLE: 爱心,成长乱弹
+#+DATE: 2017-03-20
+#+SETUPFILE: ~/mysite/ccb/source/org-sty/setupfile.org
+#+JEKYLL_LAYOUT: post
+#+JEKYLL_CATEGORIES: 杂感
+#+JEKYLL_TAGS:
+#+JEKYLL_PUBLISHED: true
+
+昨天在她的老家的步行街尽头上，又一次碰到了那个老人，在垃圾箱里找塑料瓶
+和纸壳之类的可回收品。之前遇到过这个老人。老人年纪很大，有几个儿子，其
+中一个已经六十多了，没有结婚，后来收养了一个小女孩，女孩现在也是二十多
+了。老人和单身的大儿子还有收养的孙女住在小儿子的一所房子里。老人没有工
+资，只有低保，被小儿媳妇拿去作为房子的租金，从来就没有过过老人的手。
