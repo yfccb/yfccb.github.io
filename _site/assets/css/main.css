@@ -1258,13 +1258,13 @@ th {
   font-style: italic;
   letter-spacing: -2px; }
   .page-title {
-    font-size: 48px; }
+    font-size: 36px; }
     @media screen and (min-width: 320px) {
       .page-title {
-        font-size: calc(48px + 12 * ((100vw - 320px) / 960)); } }
+        font-size: calc(36px + 12 * ((100vw - 320px) / 960)); } }
     @media screen and (min-width: 1280px) {
       .page-title {
-        font-size: 60px; } }
+        font-size: 48px; } }
 
 .page-image {
   position: relative;
