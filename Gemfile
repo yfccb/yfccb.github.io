@@ -6,6 +6,7 @@ source "https://rubygems.org"
 gem "jekyll-theme-so-simple"
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
+gem "liquid-c"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
